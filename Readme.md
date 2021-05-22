@@ -4,7 +4,7 @@
 
 
 <h4>Screenshots</h4>
-<img src="./assets/screenShot.png"/>
+<img src="./assets/screenShot.jpg"/>
 
 
 <h4>Description</h4>
