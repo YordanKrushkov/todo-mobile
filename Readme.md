@@ -2,7 +2,8 @@
 
 # To view the app:
 ## 1. Use your phone. 
-<!-- <a href="https://expo.io/client"><h2>2. Download the Expo app</h2> </a> -->
+<a href="https://expo.io/client"><h2>2. Download the Expo app</h2> </a>
+
 <a href="https://expo.io/--/to-exp/exp%3A%2F%2Fdk-sgb.yordankrushkov.todo-mobile.exp.direct%3A80"><h2>3.View the app</h2></a>
 
 <h4>Description</h4>
